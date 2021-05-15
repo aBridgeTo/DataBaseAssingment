@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBaseSimple</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="data_displayed_here">Welcome to My application</string>
+    <string name="submit">Submit</string>
+</resources>
